@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>☁ 없어야 하는게 있어요 ☁</title>
+        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Major+Mono+Display&family=Nanum+Gothic&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+
+    </head>
+
+    <body>
+        <div class="frame">
+            <nav>
+                <h2>☁ 없어야 하는게 있어요 ☁</h2>
+                <ul>
+                    <li class="Mobile">Mobile</li>
+                    <li class="E-book">E-book</li>
+                    <li class="Web">Web</li>
+                </ul>
+            </nav>
+
+            <section class="description">
+                <h2></h2>
+                <p>당신은 오늘도 어제와 같은 버스 창가에 기대서 밖을 바라보고 있습니다.<br>
+                오늘도 원래는 그 자리에 없어야 할 것들이 나와있네요.<br>
+                도심 속의 설계된 건물들처럼, 모든 것들이 제자리에 딱딱 들어맞아 있는 날은 단 하루도 없습니다.<br>
+                당신은 오늘도 어떤 흔적들을 보면서, 무슨 일들이 있었을지 유추해 봅니다.</p>
+            </section>
+
+            <main>
+                <div class="ui id">
+                    <img src="window_frame.png">
+                </div>
+
+
+
+
+                <div class="head">
+                    <div class="person">
+                    <img src="person.png">
+
+                </div>
+               <div class="eye">
+                    <img src="eye.png">
+
+                </div>
+                    <div class="cheek">
+                    <img src="cheek.png">
+
+                </div>
+                </div>
+
+
+
+                <div class="ui typo">
+                <div class="ui typo_bg">
+                    <img src="typo.png">
+                </div>
+                <div class="typo_bar">
+                        <img src="typo_bar.png">
+                </div>
+                 <div class="typo_circle">
+                        <img src="typo_circle.png">
+                </div>
+                    <div class="typo_circle2">
+                        <img src="typo_circle2.png">
+                </div>
+
+                    <div class="typo_circle3">
+                        <img src="typo_circle3.png">
+                </div>
+                    <div class="typo_circle4">
+                        <img src="typo_circle4.png">
+                </div>
+
+                    <div class="typo_circle5">
+                        <img src="typo_circle5.png">
+                </div>
+
+                    <div class="typo_circle6">
+                        <img src="typo_circle6.png">
+                </div>
+
+                    <div class="gradation">
+                        <img src="gradation.png">
+                </div>
+
+                    <div class="gradation2">
+                        <img src="gradation2.png">
+                </div>
+
+                    <div class="footprint">
+                        <img src="footprint.png">
+                </div>
+                    <div class="observe">
+                        <img src="observe.png">
+                </div>
+
+            </div>
+
+                  <div class="ui rect_dash">
+                     <img src="rect_dash.png">
+
+                </div>
+
+                  <div class="ui bus_handle1">
+
+
+                <div class="ui rect">
+                    <img src="rect.png">
+
+                </div>
+                      <div class="ui cloud1">
+                    <img src="cloud1.png">
+
+                </div>
+                      <div class="ui cloud2">
+                    <img src="cloud2.png">
+
+                </div>
+                      <div class="ui cloud3">
+                    <img src="cloud3.png">
+
+                </div>
+                      <div class="ui cloud4">
+                    <img src="cloud4.png">
+
+                </div>
+                      <div class="ui cloud5">
+                    <img src="cloud5.png">
+
+                </div>
+                      <div class="ui bus_handle">
+                    <img src="bus_handle.png">
+
+                </div>
+                </div>
+
+
+                <div class="ui wheel">
+                    <img src="wheel.png">
+                </div>
+                <div class="ui wheel2">
+                    <img src="wheel2.png">
+                </div>
+
+
+
+            </main>
+             <div class="ui bg2">
+                <img src="bg2.png">
+
+                </div>
+
+             <div class="ui flower_frame">
+
+                        <div class="ui frame1">
+
+                    <img src="frame1.png">
+
+                </div>
+                        <div class="ui frame_white2">
+
+                    <img src="frame_white2.png">
+
+                </div>
+                        <div class="ui frame_flower">
+
+                    <img src="frame_flower.png">
+
+                </div>
+
+                 <div class="ui frame_circle2">
+
+                    <img src="frame_circle2.png">
+                       </div>
+
+                </div>
+                     <div class="ui frame1_blank">
+
+                    <img src="frame1_blank.png">
+
+                </div>
+
+            <main2>
+                <div class="ui effect">
+
+                    <img src="effect.png">
+                    <div class="ui rain15">
+                    <img src="rain15.png">
+                       </div>
+                   <div class="ui rain16">
+                    <img src="rain16.png">
+                       </div>
+                    <div class="ui rain1">
+                    <img src="rain1.png">
+                       </div>
+                    <div class="ui rain2">
+                    <img src="rain2.png">
+                       </div>
+                    <div class="ui rain3">
+                    <img src="rain3.png">
+                       </div>
+                    <div class="ui rain4">
+                    <img src="rain4.png">
+                       </div>
+                    <div class="ui rain5">
+                    <img src="rain5.png">
+                       </div>
+                    <div class="ui rain6">
+                    <img src="rain6.png">
+                       </div>
+                    <div class="ui rain7">
+                    <img src="rain7.png">
+                       </div>
+
+                     <div class="ui rain8">
+                    <img src="rain8.png">
+                       </div>
+                      <div class="ui rain9">
+                    <img src="rain9.png">
+                       </div>
+                   <div class="ui rain13">
+                    <img src="rain13.png">
+                       </div>
+                    <div class="ui rain10">
+                    <img src="rain10.png">
+                       </div>
+
+                   <div class="ui rain11">
+                    <img src="rain11.png">
+                       </div>
+                   <div class="ui rain14">
+                    <img src="rain14.png">
+                       </div>
+                   <div class="ui rain12">
+                    <img src="rain12.png">
+                       </div>
+
+                       </div>
+
+                <div class="ui bg_blank">
+                    <img src="bg_blank.png">
+                       </div>
+
+                <div class="ui vase">
+                <img src="vase.png">
+
+                    <div class="ui bell1">
+                <img src="bell1.png">
+
+                </div>
+                     <div class="ui bell2">
+                <img src="bell2.png">
+
+                </div>
+                    <div class="ui bell3">
+                <img src="bell3.png">
+
+                </div>
+                </div>
+               <div class="ui power_pole">
+                <img src="power_pole.png">
+                    <div class="ui pole1">
+                <img src="pole1.png">
+
+                </div>
+                    <div class="ui pole2">
+                <img src="pole2.png">
+
+                </div>
+                    <div class="ui pole3">
+                <img src="pole3.png">
+
+                </div>
+                   <div class="ui power">
+                <img src="power.png">
+
+                </div>
+                   <div class="ui power_circle">
+                <img src="power_circle.png">
+
+                </div>
+                     <div class="ui power_circle2">
+                <img src="power_circle2.png">
+                   </div>
+                   <div class="ui power_circle3">
+                <img src="power_circle3.png">
+                   </div>
+                     <div class="ui power_circle4">
+                <img src="power_circle4.png">
+                   </div>
+                </div>
+
+                <div class="ui extra">
+                <img src="extra.png">
+                    <div class="ui extra_eye">
+                <img src="extra_eye.png">
+
+                </div>
+                     <div class="ui extra_cheek">
+                <img src="extra_cheek.png">
+
+                </div>
+                    <div class="ui window_light1">
+                <img src="window_light1.png">
+
+                    </div>
+                         <div class="ui window_light2">
+                <img src="window_light2.png">
+
+                </div>
+                </div>
+
+                <div class="ui mail">
+                <img src="mail.png">
+
+                </div>
+
+
+            <div class="ui flower">
+                    <img src="flower.png">
+                </div>
+
+
+               <div class="ui fetal">
+                    <img src="fetal.png">
+                </div>
+                 <div class="ui label">
+                    <img src="label_flower.png">
+                </div>
+
+
+                <div class="ui box">
+                    <img src="box.png">
+                </div>
+
+
+
+
+
+
+
+                  <div class="ui button">
+                    <img src="button.png">
+                </div>
+
+
+                 <div class="ui banner">
+                    <img src="banner.png">
+                </div>
+
+                <div class="ui button_1">
+
+                <div class="ui gradu">
+                    <img src="gradu.png">
+                </div>
+
+                <div class="ui hat">
+                    <img src="hat.png">
+                    </div>
+
+
+                    <div class="ui hat2">
+                    <img src="hat2.png">
+                    </div>
+
+
+                    <div class="ui congra">
+                    <img src="congra.png">
+                    </div>
+
+                    <div class="ui bambam">
+                    <img src="bambam.png">
+                    </div>
+                </div>
+
+                <div class="ui ribbon">
+                    <img src="ribbon.png">
+                </div>
+
+                <div class="ui button_2">
+
+                    <div class="ui propose">
+                    <img src="propose.png">
+                </div>
+
+                    <div class="ui marry">
+                    <img src="marry.png">
+                </div>
+
+                     <div class="ui heart">
+                    <img src="heart.png">
+                </div>
+
+                    <div class="ui scar">
+                    <img src="scar.png">
+                </div>
+
+                     <div class="ui ring">
+                    <img src="ring.png">
+                </div>
+
+                </div>
+                <div class="ui ring2">
+                    <img src="ring2.png">
+                </div>
+
+
+
+                <div class="ui banner-x">
+                    <img src="banner-x.png">
+                </div>
+
+                <div class="ui handle2">
+                    <img src="bus_handle2.png">
+                </div>
+                <div class="ui ex">
+                    <div class="ui circle">
+                    <img src="circle.png">
+                </div>
+                    <div class="ui flower_ex">
+                    <img src="flower_ex.png">
+                </div>
+                </div>
+
+
+                              <div class="ui footer">
+                <p>Encyclopedia of what you see only when you are curious.</p>
+                </div>
+
+            <div class="ui footer-bg">
+                <img src="footer-bg.png">
+                </div>
+            </main2>
+
+                 <div class="ui bg3">
+                <img src="bg3.png">
+
+                </div>
+
+                <main3>
+
+
+
+                    <div class="ui duck_frame">
+
+                        <div class="ui frame2">
+
+                    <img src="frame2.png">
+
+                </div>
+                        <div class="ui frame_white">
+
+                    <img src="frame_white.png">
+
+                </div>
+                        <div class="ui frame_duck">
+
+                    <img src="frame_duck.png">
+
+                </div>
+
+                    <div class="ui frame_circle">
+
+                    <img src="frame_circle.png">
+                       </div>
+
+                </div>
+                     <div class="ui frame2_blank">
+
+                    <img src="frame2_blank.png">
+
+                </div>
+
+                     <div class="ui ex2">
+                    <div class="ui circle2">
+                    <img src="circle2.png">
+                </div>
+                    <div class="ui duck_ex">
+                    <img src="duck_ex.png">
+                </div>
+                </div>
+
+                     <div class="ui effect2">
+                    <img src="effect2.png">
+
+                        <div class="ui lens1">
+                    <img src="lens1.png">
+                       </div>
+                         <div class="ui lens2">
+                    <img src="lens2.png">
+                       </div>
+                        <div class="ui lens3">
+                    <img src="lens3.png">
+                       </div>
+                        <div class="ui lens4">
+                    <img src="lens4.png">
+                       </div>
+                        <div class="ui lens5">
+                    <img src="lens5.png">
+                       </div>
+                        <div class="ui lens6">
+                    <img src="lens6.png">
+                       </div>
+                        <div class="ui lens7">
+                    <img src="lens7.png">
+                       </div>
+                        <div class="ui lens8">
+                    <img src="lens8.png">
+                       </div>
+                        <div class="ui lens9">
+                    <img src="lens9.png">
+                       </div>
+                        <div class="ui lens10">
+                    <img src="lens10.png">
+                       </div>
+                        <div class="ui lens11">
+                    <img src="lens11.png">
+                       </div>
+
+                          <div class="ui lens13">
+                    <img src="lens13.png">
+                       </div>
+                        <div class="ui lens12">
+                    <img src="lens12.png">
+                       </div>
+                        <div class="ui lens14">
+                    <img src="lens14.png">
+                       </div>
+
+                        <div class="ui lens15">
+                    <img src="lens15.png">
+                       </div>
+
+                        <div class="ui flare1">
+                    <img src="flare1.png">
+                       </div>
+                        <div class="ui flare2">
+                    <img src="flare2.png">
+                       </div>
+                        <div class="ui flare3">
+                    <img src="flare3.png">
+                       </div>
+
+                        <div class="ui flare4">
+                    <img src="flare1.png">
+                       </div>
+                        <div class="ui flare5">
+                    <img src="flare2.png">
+                       </div>
+                        <div class="ui flare6">
+                    <img src="flare6.png">
+                       </div>
+
+                       </div>
+                    <div class="ui bg_blank2">
+                    <img src="bg_blank2.png">
+                       </div>
+
+                    <div class="ui clock">
+                <img src="clock.png">
+                        <div class="ui bulb2">
+                <img src="bulb2.png">
+
+                    </div>
+                        <div class="ui stroke">
+                <img src="stroke.png">
+
+                    </div>
+                    </div>
+
+
+                     <div class="ui door">
+                <img src="door.png">
+
+
+                        <div class="ui bulb">
+                <img src="bulb.png">
+                        </div>
+
+                    </div>
+
+                    <div class="ui alley">
+                <img src="alley.png">
+                        </div>
+
+                     <div class="ui build">
+                <img src="build.png">
+                        </div>
+
+
+
+                    <div class="ui footprint2">
+                <img src="footprint2.png">
+
+                    </div>
+
+                    <div class="ui sign_pole">
+                <img src="sign_pole.png">
+
+                    </div>
+
+                 <div class="ui snow">
+                     <div class="ui pole">
+                     <div class="ui sign_pole2">
+                <img src="sign_pole2.png">
+
+                    </div>
+                          <div class="ui sign_pole3">
+                <img src="sign_pole3.png">
+
+                    </div>
+
+                <div class="ui flake">
+                <img src="flake1.png">
+
+                </div>
+                <div class="ui flake2">
+                <img src="flake2.png">
+
+                </div>
+                    <div class="ui flake3">
+                <img src="flake3.png">
+                    </div>
+                            <div class="ui arrow">
+                <img src="arrow.png">
+                    </div>
+                    </div>
+                    </div>
+
+
+
+
+
+                    <div class="ui button2">
+                <img src="button2.png">
+                    </div>
+
+
+
+                 <div class="ui duck">
+                <img src="duck.png">
+                    </div>
+
+                   <div class="ui duck_rope">
+                <img src="duck_rope.png">
+                    </div>
+
+
+                    <div class="ui cone">
+                <img src="cone.png">
+                    </div>
+
+                    <div class="ui duck_button">
+                <img src="duck_button.png">
+                    </div>
+
+                    <div class="ui label2">
+                <img src="label2.png">
+                    </div>
+
+
+
+
+                      <div class="annual">
+                          <div class="age1">
+                <img src="age1.png">
+                    </div>
+                          <div class="age2">
+                <img src="age2.png">
+                    </div>
+                          <div class="age3">
+                <img src="age3.png">
+                    </div>
+                          <div class="age4">
+                <img src="age4.png">
+                    </div>
+                          <div class="age5">
+                <img src="age5.png">
+                    </div>
+                         </div>
+
+                   <div class="ui button_4">
+                    <div class="ui group">
+                <img src="group.png">
+                    </div>
+                       <div class="ui sunglass">
+                <img src="sunglass.png">
+                    </div>
+
+                       <div class="ui flag1">
+                <img src="flag1.png">
+                    </div>
+                       <div class="ui light1">
+                <img src="light1.png">
+                    </div>
+                       <div class="ui light2">
+                <img src="light2.png">
+                    </div>
+                       <div class="ui light3">
+                <img src="light3.png">
+                    </div>
+                        <div class="ui flag2">
+                <img src="flag2.png">
+                    </div>
+                    </div>
+
+                    <div class="ui blank2">
+                <img src="blank2.png">
+                    </div>
+                    <div class="ui blank3">
+                <img src="blank3.png">
+
+                    </div>
+
+                    <div class="ui loverduck_blank">
+                <img src="loverduck_blank.png">
+                    </div>
+                    <div class="ui loverduck">
+                <img src="loverduck.png">
+                    </div>
+
+
+
+                      <div class="ui button_3">
+                    <div class="ui friend">
+                <img src="friend.png">
+                    </div>
+                    <div class="right">
+                <img src="right.png">
+                    </div>
+                         <div class="left">
+                <img src="left.png">
+                    </div>
+                      <div class="snowduck">
+                <img src="snowduck.png">
+                    </div>
+
+                          <div class="melt">
+                <img src="melt.png">
+                    </div>
+                    </div>
+
+                    <div class="blank">
+                <img src="blank.png">
+                    </div>
+
+                    <div class="ball">
+                <img src="images/ball.png">
+                    </div>
+
+                    <div class="glass">
+                <img src="glass.png">
+                    </div>
+
+
+                    <div class="ui handle3">
+                    <img src="bus_handle3.png">
+                </div>
+
+
+                </main3>
+
+
+
+
+
+
+            <footer>
+
+            </footer>
+        </div>
+    </body>
+</html>
